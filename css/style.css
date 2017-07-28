@@ -3,3 +3,8 @@ body{
     font-size: 20px;
     text-align: center;
 }
+
+h1, p{
+    background-color: #202043;
+    color: white;
+}
